@@ -13,7 +13,7 @@
 - [Contact Information](#contact-information)
 
 ## Description
-The Born2beRoot project is a system administration exercise that aims to introduce participants to the world of virtualization. By following specific instructions, participants will create their first virtual machine using VirtualBox or UTM, set up an operating system, and implement various security measures. The project includes a mandatory part and a bonus part, with the latter only being assessed if the mandatory part is completed perfectly.
+The Born2beRoot project is a system administration exercise that aims to introduce participants to the world of virtualization. By following specific instructions, participants will create their first virtual machine using VirtualBox or UTM, set up an operating system, and implement various security measures.
 
 ## Important Features and Services
 The project involves setting up a server with the following features and services:
