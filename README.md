@@ -79,6 +79,7 @@ To complete the Born2beRoot project, follow these steps:
 - [Inception](https://github.com/Ziko909/inception): This project is about discovering the world of containers.
 
 ## Contact Information
-- GitHub: Ziko909
-- LinkedIn: Zakaria Aabou
+
+- GitHub: [Ziko909](https://github.com/Ziko909)
+- LinkedIn: [Zakaria Aabou](https://www.linkedin.com/in/zakaria-aabou)
 - Gmail: aabou.zakaria909@gmail.com
